@@ -1,0 +1,4 @@
+sht31.c:14:6:sht31_init	32	static
+sht31.c:24:6:sht31_temphum	32	static
+sht31.c:42:6:afficher_hum	24	static
+sht31.c:52:6:afficher_temp	24	static
